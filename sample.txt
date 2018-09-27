@@ -1,3 +1,4 @@
 this is my first file in git
 after editing in git hub
-added line
+added line in cmd
+added line in web
